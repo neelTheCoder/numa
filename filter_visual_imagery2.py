@@ -1,3 +1,5 @@
+#Takes csv of events and outputs csv with only required rows
+
 import pandas as pd
 
 # Read the TSV file
