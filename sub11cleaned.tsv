@@ -1,0 +1,469 @@
+onset	duration	trial_type	value	sample	stim_file
+373.85400390625		blank_white_screen	705	765653	
+374.04150390625		tool_visual_imagery_task	602	766037	
+377.05419921875		blank_white_screen	705	772207	
+391.15380859375		blank_white_screen	705	801083	
+391.34375		animal_visual_imagery_task	602	801472	
+394.35400390625		blank_white_screen	705	807637	
+408.537109375		blank_white_screen	705	836684	
+408.72412109375		animal_visual_imagery_task	602	837067	
+411.7373046875		blank_white_screen	705	843238	
+426.75390625		blank_white_screen	705	873992	
+426.947265625		animal_visual_imagery_task	602	874388	
+429.95361328125		blank_white_screen	705	880545	
+444.40380859375		blank_white_screen	705	910139	
+444.59228515625		animal_visual_imagery_task	602	910525	
+447.603515625		blank_white_screen	705	916692	
+462.353515625		blank_white_screen	705	946900	
+462.5517578125		tool_visual_imagery_task	602	947306	
+465.5537109375		blank_white_screen	705	953454	
+480.25341796875		blank_white_screen	705	983559	
+480.44580078125		animal_visual_imagery_task	602	983953	
+483.45361328125		blank_white_screen	705	990113	
+497.8701171875		blank_white_screen	705	1019638	
+498.06103515625		animal_visual_imagery_task	602	1020029	
+501.06982421875		blank_white_screen	705	1026191	
+515.31982421875		blank_white_screen	705	1055375	
+515.505859375		animal_visual_imagery_task	602	1055756	
+518.52001953125		blank_white_screen	705	1061929	
+533.55322265625		blank_white_screen	705	1092717	
+533.72998046875		animal_visual_imagery_task	602	1093079	
+536.736328125		blank_white_screen	705	1099236	
+551.61962890625		blank_white_screen	705	1129717	
+551.81005859375		animal_visual_imagery_task	602	1130107	
+554.81982421875		blank_white_screen	705	1136271	
+569.63623046875		blank_white_screen	705	1166615	
+569.83203125		tool_visual_imagery_task	602	1167016	
+572.83642578125		blank_white_screen	705	1173169	
+624.15283203125		blank_white_screen	705	1278265	
+624.34619140625		tool_visual_imagery_task	602	1278661	tools/vacuum_cleaner_PNG56.png
+627.3525390625		blank_white_screen	705	1284818	
+642.21923828125		blank_white_screen	705	1315265	
+642.41455078125		tool_visual_imagery_task	602	1315665	tools/broom_PNG58.png
+645.4189453125		blank_white_screen	705	1321818	
+659.935546875		blank_white_screen	705	1351548	
+660.123046875		animal_visual_imagery_task	602	1351932	animals/elephants_PNG18808.png
+663.1357421875		blank_white_screen	705	1358102	
+677.81884765625		blank_white_screen	705	1388173	
+678.0166015625		tool_visual_imagery_task	602	1388578	tools/hand_saw_PNG9540.png
+681.01904296875		blank_white_screen	705	1394727	
+695.90234375		blank_white_screen	705	1425208	
+696.1015625		animal_visual_imagery_task	602	1425616	animals/bear_PNG23456.png
+699.10205078125		blank_white_screen	705	1431761	
+714.03564453125		blank_white_screen	705	1462345	
+714.23095703125		animal_visual_imagery_task	602	1462745	animals/dog_PNG50396.png
+717.2353515625		blank_white_screen	705	1468898	
+731.58544921875		blank_white_screen	705	1498287	
+731.78466796875		animal_visual_imagery_task	602	1498695	animals/crow_PNG3114.png
+734.78515625		blank_white_screen	705	1504840	
+749.71875		blank_white_screen	705	1535424	
+749.912109375		animal_visual_imagery_task	602	1535820	animals/crab_PNG37.png
+752.91845703125		blank_white_screen	705	1541977	
+767.0185546875		blank_white_screen	705	1570854	
+767.21484375		animal_visual_imagery_task	602	1571256	animals/frog_PNG35767.png
+770.21826171875		blank_white_screen	705	1577407	
+784.8349609375		blank_white_screen	705	1607342	
+785.0322265625		animal_visual_imagery_task	602	1607746	animals/tiger_PNG23242.png
+788.03515625		blank_white_screen	705	1613896	
+802.8349609375		blank_white_screen	705	1644206	
+803.02197265625		tool_visual_imagery_task	602	1644589	tools/corkscrew_PNG43.png
+806.03466796875		blank_white_screen	705	1650759	
+820.634765625		blank_white_screen	705	1680660	
+820.82373046875		animal_visual_imagery_task	602	1681047	animals/lion_PNG562.png
+823.8349609375		blank_white_screen	705	1687214	
+883.66748046875		blank_white_screen	705	1809751	
+883.8515625		animal_visual_imagery_task	602	1810128	
+886.86767578125		blank_white_screen	705	1816305	
+900.9677734375		blank_white_screen	705	1845182	
+901.166015625		tool_visual_imagery_task	602	1845588	
+904.16748046875		blank_white_screen	705	1851735	
+918.45068359375		blank_white_screen	705	1880987	
+918.6416015625		tool_visual_imagery_task	602	1881378	
+921.65087890625		blank_white_screen	705	1887541	
+935.8173828125		blank_white_screen	705	1916554	
+936.0048828125		animal_visual_imagery_task	602	1916938	
+939.017578125		blank_white_screen	705	1923108	
+953.4677734375		blank_white_screen	705	1952702	
+953.65185546875		tool_visual_imagery_task	602	1953079	
+956.66748046875		blank_white_screen	705	1959255	
+970.93408203125		blank_white_screen	705	1988473	
+971.1259765625		tool_visual_imagery_task	602	1988866	
+974.1337890625		blank_white_screen	705	1995026	
+988.48388671875		blank_white_screen	705	2024415	
+988.67822265625		animal_visual_imagery_task	602	2024813	
+991.68359375		blank_white_screen	705	2030968	
+1006.25048828125		blank_white_screen	705	2060801	
+1006.43603515625		animal_visual_imagery_task	602	2061181	
+1009.4501953125		blank_white_screen	705	2067354	
+1023.61669921875		blank_white_screen	705	2096367	
+1023.8125		tool_visual_imagery_task	602	2096768	
+1026.81689453125		blank_white_screen	705	2102921	
+1041.75		blank_white_screen	705	2133504	
+1041.9443359375		tool_visual_imagery_task	602	2133902	
+1044.9501953125		blank_white_screen	705	2140058	
+1059.86669921875		blank_white_screen	705	2170607	
+1060.05712890625		animal_visual_imagery_task	602	2170997	
+1063.06689453125		blank_white_screen	705	2177161	
+1077.283203125		blank_white_screen	705	2206276	
+1077.46923828125		animal_visual_imagery_task	602	2206657	
+1080.4833984375		blank_white_screen	705	2212830	
+1212.015625		blank_white_screen	705	2482208	
+1212.201171875		tool_visual_imagery_task	602	2482588	
+1230.2158203125		blank_white_screen	705	2519482	
+1230.4111328125		animal_visual_imagery_task	602	2519882	
+1247.9658203125		blank_white_screen	705	2555834	
+1248.150390625		tool_visual_imagery_task	602	2556212	
+1265.2822265625		blank_white_screen	705	2591298	
+1265.46875		tool_visual_imagery_task	602	2591680	
+1282.69873046875		blank_white_screen	705	2626967	
+1282.896484375		tool_visual_imagery_task	602	2627372	
+1300.298828125		blank_white_screen	705	2663012	
+1300.494140625		tool_visual_imagery_task	602	2663412	
+1317.6484375		blank_white_screen	705	2698544	
+1317.84326171875		animal_visual_imagery_task	602	2698943	
+1335.78173828125		blank_white_screen	705	2735681	
+1335.97509765625		animal_visual_imagery_task	602	2736077	
+1353.1484375		blank_white_screen	705	2771248	
+1353.32568359375		tool_visual_imagery_task	602	2771611	
+1371.03173828125		blank_white_screen	705	2807873	
+1371.21923828125		tool_visual_imagery_task	602	2808257	
+1388.81494140625		blank_white_screen	705	2844293	
+1388.9921875		animal_visual_imagery_task	602	2844656	
+1406.14794921875		blank_white_screen	705	2879791	
+1406.3408203125		animal_visual_imagery_task	602	2880186	
+1453.66455078125		blank_white_screen	705	2977105	
+1454.15283203125		tool_visual_imagery_task	602	2978105	tools/keyboard_PNG5858.png
+1457.16455078125		blank_white_screen	705	2984273	
+1471.43115234375		blank_white_screen	705	3013491	
+1471.92431640625		tool_visual_imagery_task	602	3014501	tools/pen_PNG7418.png
+1474.93115234375		blank_white_screen	705	3020659	
+1489.19775390625		blank_white_screen	705	3049877	
+1489.68115234375		animal_visual_imagery_task	602	3050867	animals/crab_PNG37.png
+1492.69775390625		blank_white_screen	705	3057045	
+1506.5810546875		blank_white_screen	705	3085478	
+1507.0625		tool_visual_imagery_task	602	3086464	tools/hammer_PNG1133.png
+1510.064453125		blank_white_screen	705	3092612	
+1524.78076171875		blank_white_screen	705	3122751	
+1525.26806640625		animal_visual_imagery_task	602	3123749	animals/elephants_PNG18808.png
+1528.28076171875		blank_white_screen	705	3129919	
+1542.14697265625		blank_white_screen	705	3158317	
+1542.63623046875		animal_visual_imagery_task	602	3159319	animals/duck_PNG5028.png
+1545.64697265625		blank_white_screen	705	3165485	
+1559.98046875		blank_white_screen	705	3194840	
+1560.46923828125		tool_visual_imagery_task	602	3195841	tools/broom_PNG58.png
+1563.48046875		blank_white_screen	705	3202008	
+1577.88037109375		blank_white_screen	705	3231499	
+1578.3642578125		tool_visual_imagery_task	602	3232490	tools/bottle_opener_PNG24.png
+1581.38037109375		blank_white_screen	705	3238667	
+1596.13037109375		blank_white_screen	705	3268875	
+1596.61767578125		animal_visual_imagery_task	602	3269873	animals/bear_PNG23456.png
+1599.63037109375		blank_white_screen	705	3276043	
+1614.296875		blank_white_screen	705	3306080	
+1614.79296875		tool_visual_imagery_task	602	3307096	tools/toothbrash_PNG10557.png
+1617.796875		blank_white_screen	705	3313248	
+1631.9296875		blank_white_screen	705	3342192	
+1632.42578125		animal_visual_imagery_task	602	3343208	animals/crow_PNG3114.png
+1635.4296875		blank_white_screen	705	3349360	
+1649.77978515625		blank_white_screen	705	3378749	
+1650.27490234375		tool_visual_imagery_task	602	3379763	tools/chain_saw_PNG18513.png
+1653.27978515625		blank_white_screen	705	3385917	
+1721.51318359375		blank_white_screen	705	3525659	
+1721.6865234375		tool_visual_imagery_task	602	3526014	tools/hammer_PNG1133.png
+1724.6962890625		blank_white_screen	705	3532178	
+1739.39599609375		blank_white_screen	705	3562283	
+1739.580078125		tool_visual_imagery_task	602	3562660	tools/microwave_PNG15726.png
+1742.59619140625		blank_white_screen	705	3568837	
+1757.49560546875		blank_white_screen	705	3599351	
+1757.68115234375		animal_visual_imagery_task	602	3599731	animals/pig_PNG2215.png
+1760.69580078125		blank_white_screen	705	3605905	
+1775.462890625		blank_white_screen	705	3636148	
+1775.6513671875		animal_visual_imagery_task	602	3636534	animals/crab_PNG37.png
+1778.66259765625		blank_white_screen	705	3642701	
+1792.92919921875		blank_white_screen	705	3671919	
+1793.11328125		tool_visual_imagery_task	602	3672296	tools/computer_mouse_PNG7688.png
+1796.12890625		blank_white_screen	705	3678472	
+1810.9453125		blank_white_screen	705	3708816	
+1811.1455078125		animal_visual_imagery_task	602	3709226	animals/elephants_PNG18808.png
+1814.1455078125		blank_white_screen	705	3715370	
+1829.02880859375		blank_white_screen	705	3745851	
+1829.2158203125		animal_visual_imagery_task	602	3746234	animals/frog_PNG35767.png
+1832.22900390625		blank_white_screen	705	3752405	
+1846.8623046875		blank_white_screen	705	3782374	
+1847.0341796875		animal_visual_imagery_task	602	3782726	animals/tiger_PNG23242.png
+1850.04541015625		blank_white_screen	705	3788893	
+1864.6953125		blank_white_screen	705	3818896	
+1864.8681640625		tool_visual_imagery_task	602	3819250	tools/hammer_PNG1133.png
+1867.87841796875		blank_white_screen	705	3825415	
+1882.9619140625		blank_white_screen	705	3856306	
+1883.1533203125		animal_visual_imagery_task	602	3856698	animals/tiger_PNG23242.png
+1886.162109375		blank_white_screen	705	3862860	
+1900.794921875		blank_white_screen	705	3892828	
+1900.98681640625		animal_visual_imagery_task	602	3893221	animals/bear_PNG23456.png
+1903.9951171875		blank_white_screen	705	3899382	
+1918.16162109375		blank_white_screen	705	3928395	
+1918.34814453125		animal_visual_imagery_task	602	3928777	animals/duck_PNG5028.png
+1921.3623046875		blank_white_screen	705	3934950	
+1988.46142578125		blank_white_screen	705	4072369	
+1988.650390625		tool_visual_imagery_task	602	4072756	
+2006.09423828125		blank_white_screen	705	4108481	
+2006.2822265625		tool_visual_imagery_task	602	4108866	
+2024.09423828125		blank_white_screen	705	4145345	
+2024.2890625		tool_visual_imagery_task	602	4145744	
+2042.14404296875		blank_white_screen	705	4182311	
+2042.3408203125		tool_visual_imagery_task	602	4182714	
+2060.2607421875		blank_white_screen	705	4219414	
+2060.4521484375		tool_visual_imagery_task	602	4219806	
+2077.62744140625		blank_white_screen	705	4254981	
+2077.80517578125		tool_visual_imagery_task	602	4255345	
+2095.0439453125		blank_white_screen	705	4290650	
+2095.23095703125		animal_visual_imagery_task	602	4291033	
+2112.5107421875		blank_white_screen	705	4326422	
+2112.69091796875		animal_visual_imagery_task	602	4326791	
+2130.22705078125		blank_white_screen	705	4362705	
+2130.41162109375		animal_visual_imagery_task	602	4363083	
+2147.8603515625		blank_white_screen	705	4398818	
+2148.05810546875		tool_visual_imagery_task	602	4399223	
+2165.16015625		blank_white_screen	705	4434248	
+2165.359375		tool_visual_imagery_task	602	4434656	
+2182.693359375		blank_white_screen	705	4470156	
+2182.88134765625		animal_visual_imagery_task	602	4470541	
+2247.65966796875		blank_white_screen	705	4603207	
+2247.84326171875		tool_visual_imagery_task	602	4603583	
+2250.85986328125		blank_white_screen	705	4609761	
+2265.8427734375		blank_white_screen	705	4640446	
+2266.037109375		animal_visual_imagery_task	602	4640844	
+2269.04296875		blank_white_screen	705	4647000	
+2283.29248046875		blank_white_screen	705	4676183	
+2283.47998046875		animal_visual_imagery_task	602	4676567	
+2286.49267578125		blank_white_screen	705	4682737	
+2301.392578125		blank_white_screen	705	4713252	
+2301.5791015625		tool_visual_imagery_task	602	4713634	
+2304.5927734375		blank_white_screen	705	4719806	
+2319.17578125		blank_white_screen	705	4749672	
+2319.36474609375		animal_visual_imagery_task	602	4750059	
+2322.3759765625		blank_white_screen	705	4756226	
+2336.576171875		blank_white_screen	705	4785308	
+2336.759765625		tool_visual_imagery_task	602	4785684	
+2339.77587890625		blank_white_screen	705	4791861	
+2354.34228515625		blank_white_screen	705	4821693	
+2354.529296875		animal_visual_imagery_task	602	4822076	
+2357.54248046875		blank_white_screen	705	4828247	
+2371.6591796875		blank_white_screen	705	4857158	
+2371.83544921875		tool_visual_imagery_task	602	4857519	
+2374.84228515625		blank_white_screen	705	4863677	
+2389.458984375		blank_white_screen	705	4893612	
+2389.6494140625		animal_visual_imagery_task	602	4894002	
+2392.6591796875		blank_white_screen	705	4900166	
+2406.90869140625		blank_white_screen	705	4929349	
+2407.09423828125		animal_visual_imagery_task	602	4929729	
+2410.10888671875		blank_white_screen	705	4935903	
+2424.67529296875		blank_white_screen	705	4965735	
+2424.85009765625		tool_visual_imagery_task	602	4966093	
+2427.85888671875		blank_white_screen	705	4972255	
+2442.92529296875		blank_white_screen	705	5003111	
+2443.11767578125		animal_visual_imagery_task	602	5003505	
+2446.125		blank_white_screen	705	5009664	
+2760.45654296875		blank_white_screen	705	5653415	
+2760.65185546875		tool_visual_imagery_task	602	5653815	
+2778.6396484375		blank_white_screen	705	5690654	
+2778.8271484375		animal_visual_imagery_task	602	5691038	
+2795.95654296875		blank_white_screen	705	5726119	
+2796.14306640625		tool_visual_imagery_task	602	5726501	
+2813.28955078125		blank_white_screen	705	5761617	
+2813.47802734375		animal_visual_imagery_task	602	5762003	
+2831.15625		blank_white_screen	705	5798208	
+2831.3427734375		tool_visual_imagery_task	602	5798590	
+2848.80615234375		blank_white_screen	705	5834355	
+2849.0048828125		animal_visual_imagery_task	602	5834762	
+2866.35595703125		blank_white_screen	705	5870297	
+2866.5400390625		tool_visual_imagery_task	602	5870674	
+2884.35595703125		blank_white_screen	705	5907161	
+2884.54833984375		tool_visual_imagery_task	602	5907555	
+2902.005859375		blank_white_screen	705	5943308	
+2902.1904296875		tool_visual_imagery_task	602	5943686	
+2919.60546875		blank_white_screen	705	5979352	
+2919.79296875		tool_visual_imagery_task	602	5979736	
+2937.48876953125		blank_white_screen	705	6015977	
+2937.68603515625		tool_visual_imagery_task	602	6016381	
+2955.73876953125		blank_white_screen	705	6053353	
+2955.92431640625		animal_visual_imagery_task	602	6053733	
+3011.53857421875		blank_white_screen	705	6167631	
+3011.7216796875		animal_visual_imagery_task	602	6168006	
+3014.73828125		blank_white_screen	705	6174184	
+3029.0380859375		blank_white_screen	705	6203470	
+3029.2265625		tool_visual_imagery_task	602	6203856	
+3032.23828125		blank_white_screen	705	6210024	
+3047.18798828125		blank_white_screen	705	6240641	
+3047.373046875		tool_visual_imagery_task	602	6241020	
+3050.38818359375		blank_white_screen	705	6247195	
+3064.72119140625		blank_white_screen	705	6276549	
+3064.9072265625		tool_visual_imagery_task	602	6276930	
+3067.92138671875		blank_white_screen	705	6283103	
+3082.45458984375		blank_white_screen	705	6312867	
+3082.64990234375		tool_visual_imagery_task	602	6313267	
+3085.654296875		blank_white_screen	705	6319420	
+3100.587890625		blank_white_screen	705	6350004	
+3100.7646484375		tool_visual_imagery_task	602	6350366	
+3103.77099609375		blank_white_screen	705	6356523	
+3118.23779296875		blank_white_screen	705	6386151	
+3118.41015625		animal_visual_imagery_task	602	6386504	
+3121.4208984375		blank_white_screen	705	6392670	
+3136.154296875		blank_white_screen	705	6422844	
+3136.3525390625		tool_visual_imagery_task	602	6423250	
+3139.35400390625		blank_white_screen	705	6429397	
+3154.25390625		blank_white_screen	705	6459912	
+3154.4501953125		tool_visual_imagery_task	602	6460314	
+3157.4541015625		blank_white_screen	705	6466466	
+3171.6875		blank_white_screen	705	6495616	
+3171.86376953125		tool_visual_imagery_task	602	6495977	
+3174.87060546875		blank_white_screen	705	6502135	
+3189.87060546875		blank_white_screen	705	6532855	
+3190.05615234375		animal_visual_imagery_task	602	6533235	
+3193.0703125		blank_white_screen	705	6539408	
+3207.23681640625		blank_white_screen	705	6568421	
+3207.42138671875		tool_visual_imagery_task	602	6568799	
+3210.43701171875		blank_white_screen	705	6574975	
+3273.169921875		blank_white_screen	705	6703452	
+3273.36474609375		tool_visual_imagery_task	602	6703851	
+3290.50341796875		blank_white_screen	705	6738951	
+3290.697265625		tool_visual_imagery_task	602	6739348	
+3308.30322265625		blank_white_screen	705	6775405	
+3308.486328125		animal_visual_imagery_task	602	6775780	
+3325.7197265625		blank_white_screen	705	6811074	
+3325.912109375		tool_visual_imagery_task	602	6811468	
+3343.63623046875		blank_white_screen	705	6847767	
+3343.82275390625		tool_visual_imagery_task	602	6848149	
+3361.63623046875		blank_white_screen	705	6884631	
+3361.826171875		animal_visual_imagery_task	602	6885020	
+3379.5859375		blank_white_screen	705	6921392	
+3379.76953125		animal_visual_imagery_task	602	6921768	
+3397.46923828125		blank_white_screen	705	6958017	
+3397.6640625		animal_visual_imagery_task	602	6958416	
+3414.96923828125		blank_white_screen	705	6993857	
+3415.15673828125		tool_visual_imagery_task	602	6994241	
+3432.8857421875		blank_white_screen	705	7030550	
+3433.0810546875		tool_visual_imagery_task	602	7030950	
+3451.08544921875		blank_white_screen	705	7067823	
+3451.2763671875		tool_visual_imagery_task	602	7068214	
+3469.10205078125		blank_white_screen	705	7104721	
+3469.28173828125		tool_visual_imagery_task	602	7105089	
+3524.63525390625		blank_white_screen	705	7218453	
+3524.8232421875		tool_visual_imagery_task	602	7218838	
+3527.8349609375		blank_white_screen	705	7225006	
+3542.75146484375		blank_white_screen	705	7255555	
+3542.94091796875		tool_visual_imagery_task	602	7255943	
+3545.95166015625		blank_white_screen	705	7262109	
+3560.36865234375		blank_white_screen	705	7291635	
+3560.54150390625		animal_visual_imagery_task	602	7291989	
+3563.5517578125		blank_white_screen	705	7298154	
+3578.46826171875		blank_white_screen	705	7328703	
+3578.6669921875		animal_visual_imagery_task	602	7329110	
+3581.66796875		blank_white_screen	705	7335256	
+3595.76806640625		blank_white_screen	705	7364133	
+3595.95751953125		animal_visual_imagery_task	602	7364521	
+3598.9677734375		blank_white_screen	705	7370686	
+3613.66796875		blank_white_screen	705	7400792	
+3613.86767578125		animal_visual_imagery_task	602	7401201	
+3616.86767578125		blank_white_screen	705	7407345	
+3631.2509765625		blank_white_screen	705	7436802	
+3631.44873046875		tool_visual_imagery_task	602	7437207	
+3634.451171875		blank_white_screen	705	7443356	
+3649.35107421875		blank_white_screen	705	7473871	
+3649.53515625		animal_visual_imagery_task	602	7474248	
+3652.55126953125		blank_white_screen	705	7480425	
+3667.267578125		blank_white_screen	705	7510564	
+3667.44677734375		tool_visual_imagery_task	602	7510931	
+3670.45068359375		blank_white_screen	705	7517083	
+3684.8173828125		blank_white_screen	705	7546506	
+3685.01318359375		tool_visual_imagery_task	602	7546907	
+3688.017578125		blank_white_screen	705	7553060	
+3702.5009765625		blank_white_screen	705	7582722	
+3702.69140625		tool_visual_imagery_task	602	7583112	
+3705.70068359375		blank_white_screen	705	7589275	
+3720.55029296875		blank_white_screen	705	7619687	
+3720.74267578125		tool_visual_imagery_task	602	7620081	
+3723.75048828125		blank_white_screen	705	7626241	
+3783.68359375		blank_white_screen	705	7748984	
+3783.87646484375		animal_visual_imagery_task	602	7749379	
+3801.333984375		blank_white_screen	705	7785132	
+3801.521484375		animal_visual_imagery_task	602	7785516	
+3819.0830078125		blank_white_screen	705	7821482	
+3819.27685546875		tool_visual_imagery_task	602	7821879	
+3836.8662109375		blank_white_screen	705	7857902	
+3837.06103515625		animal_visual_imagery_task	602	7858301	
+3855.099609375		blank_white_screen	705	7895244	
+3855.2861328125		animal_visual_imagery_task	602	7895626	
+3873.3662109375		blank_white_screen	705	7932654	
+3873.55908203125		animal_visual_imagery_task	602	7933049	
+3891.43310546875		blank_white_screen	705	7969655	
+3891.6259765625		animal_visual_imagery_task	602	7970050	
+3908.9990234375		blank_white_screen	705	8005630	
+3909.19287109375		tool_visual_imagery_task	602	8006027	
+3926.54931640625		blank_white_screen	705	8041573	
+3926.7421875		animal_visual_imagery_task	602	8041968	
+3944.58251953125		blank_white_screen	705	8078505	
+3944.78076171875		tool_visual_imagery_task	602	8078911	
+3962.3154296875		blank_white_screen	705	8114822	
+3962.50537109375		animal_visual_imagery_task	602	8115211	
+3979.98193359375		blank_white_screen	705	8151003	
+3980.1689453125		tool_visual_imagery_task	602	8151386	
+4030.24853515625		blank_white_screen	705	8253949	
+4030.43359375		tool_visual_imagery_task	602	8254328	tools/ax_PNG9104.png
+4033.44873046875		blank_white_screen	705	8260503	
+4048.01513671875		blank_white_screen	705	8290335	
+4048.203125		animal_visual_imagery_task	602	8290720	animals/cock_PNG21.png
+4051.21533203125		blank_white_screen	705	8296889	
+4066.1318359375		blank_white_screen	705	8327438	
+4066.31884765625		tool_visual_imagery_task	602	8327821	tools/toothbrash_PNG10557.png
+4069.33203125		blank_white_screen	705	8333992	
+4084.31494140625		blank_white_screen	705	8364677	
+4084.51025390625		animal_visual_imagery_task	602	8365077	animals/bear_PNG23456.png
+4087.5146484375		blank_white_screen	705	8371230	
+4101.748046875		blank_white_screen	705	8400380	
+4101.93798828125		animal_visual_imagery_task	602	8400769	animals/dog_PNG50396.png
+4104.9482421875		blank_white_screen	705	8406934	
+4119.7314453125		blank_white_screen	705	8437210	
+4119.9140625		tool_visual_imagery_task	602	8437584	tools/vacuum_cleaner_PNG56.png
+4122.91455078125		blank_white_screen	705	8443729	
+4137.431640625		blank_white_screen	705	8473460	
+4137.6201171875		tool_visual_imagery_task	602	8473846	tools/knife_PNG1516.png
+4140.63134765625		blank_white_screen	705	8480013	
+4155.0810546875		blank_white_screen	705	8509606	
+4155.2685546875		tool_visual_imagery_task	602	8509990	tools/keyboard_PNG5858.png
+4158.28125		blank_white_screen	705	8516160	
+4172.76416015625		blank_white_screen	705	8545821	
+4172.9599609375		tool_visual_imagery_task	602	8546222	tools/pen_PNG7418.png
+4175.96435546875		blank_white_screen	705	8552375	
+4190.1142578125		blank_white_screen	705	8581354	
+4190.306640625		animal_visual_imagery_task	602	8581748	animals/donkey_PNG7.png
+4193.31396484375		blank_white_screen	705	8587907	
+4207.79736328125		blank_white_screen	705	8617569	
+4207.98583984375		animal_visual_imagery_task	602	8617955	animals/frog_PNG35767.png
+4210.99755859375		blank_white_screen	705	8624123	
+4225.697265625		blank_white_screen	705	8654228	
+4225.89501953125		animal_visual_imagery_task	602	8654633	animals/dog_PNG50396.png
+4228.8974609375		blank_white_screen	705	8660782	
+4288.7802734375		blank_white_screen	705	8783422	
+4288.96923828125		animal_visual_imagery_task	602	8783809	
+4306.36328125		blank_white_screen	705	8819432	
+4306.53857421875		animal_visual_imagery_task	602	8819791	
+4324.52978515625		blank_white_screen	705	8856637	
+4324.7275390625		tool_visual_imagery_task	602	8857042	
+4342.31298828125		blank_white_screen	705	8893057	
+4342.50244140625		animal_visual_imagery_task	602	8893445	
+4359.93017578125		blank_white_screen	705	8929137	
+4360.11572265625		tool_visual_imagery_task	602	8929517	
+4377.396484375		blank_white_screen	705	8964908	
+4377.58740234375		animal_visual_imagery_task	602	8965299	
+4395.59619140625		blank_white_screen	705	9002181	
+4395.77978515625		tool_visual_imagery_task	602	9002557	
+4413.61279296875		blank_white_screen	705	9039079	
+4413.80029296875		animal_visual_imagery_task	602	9039463	
+4431.47900390625		blank_white_screen	705	9075669	
+4431.66650390625		tool_visual_imagery_task	602	9076053	
+4448.92919921875		blank_white_screen	705	9111407	
+4449.1103515625		animal_visual_imagery_task	602	9111778	
+4466.96240234375		blank_white_screen	705	9148339	
+4467.16015625		animal_visual_imagery_task	602	9148744	
+4484.99560546875		blank_white_screen	705	9185271	
+4485.1826171875		animal_visual_imagery_task	602	9185654	
