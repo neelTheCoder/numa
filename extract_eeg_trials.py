@@ -1,3 +1,5 @@
+#Takes EEG data from bdf file and outputs csv
+
 import pandas as pd
 import mne
 import numpy as np
